@@ -1,0 +1,13 @@
+{
+  "id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in olgamak17/Internationalstudentsmanifests project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/manifest-3.json",
+    "label" : "Cover of Madorski's documents for her degree in Chemistry"
+  } ]
+}
