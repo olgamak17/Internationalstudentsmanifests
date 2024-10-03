@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/manifest-3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Cover of Madorski's documents for her degree in Chemistry",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://9b4dab45-0a9b-458e-af6a-5e5d08391623",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://ea1aed7e-c819-45d0-a3b4-d189adc15d68",
+      "@type" : "sc:Canvas",
+      "label" : "document",
+      "height" : 2243,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c7ea8935-0f25-481d-b67d-e85a4c442642",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2243,
+          "width" : 1680
+        },
+        "on" : "http://ea1aed7e-c819-45d0-a3b4-d189adc15d68"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4806a646-8cb5-4490-a748-a75612c1385b",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2243,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cc0e9d90-767f-44cd-add8-02f2da2ae4b9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2243,
+          "width" : 1680
+        },
+        "on" : "http://4806a646-8cb5-4490-a748-a75612c1385b"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
