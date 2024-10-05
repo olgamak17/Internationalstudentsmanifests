@@ -1,0 +1,231 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Madorski's document",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "it"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://382d90d3-d97b-43ef-9efe-dd802979fa6c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://05b69b63-7721-4f44-b9fe-af8985b0390d",
+      "@type" : "sc:Canvas",
+      "label" : "Cover for degree in Chemistry",
+      "height" : 2243,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2f948e1-a5a4-490c-a9bb-08c38ef975a8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3663-6563-4432-a638-373466383864__s8170-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2243,
+          "width" : 1680
+        },
+        "on" : "http://05b69b63-7721-4f44-b9fe-af8985b0390d"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://440125d1-f9da-4437-b909-f8faaf3bfa0e",
+      "@type" : "sc:Canvas",
+      "label" : "letter of application for degree in Chemistry",
+      "height" : 2382,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c30f30f8-9fde-447e-95bc-1f3289b46314",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild6166-6365-4631-b937-303930616362__s8170-02/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild6166-6365-4631-b937-303930616362__s8170-02",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2382,
+          "width" : 1680
+        },
+        "on" : "http://440125d1-f9da-4437-b909-f8faaf3bfa0e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e6be78a1-a687-48f8-8d9f-93d41b411784",
+      "@type" : "sc:Canvas",
+      "label" : "Grade report of Chemistry, first degree ",
+      "height" : 2372,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a6f335ef-1358-4e43-93f3-b4ed4097534f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3830-6165-4630-a561-373633613532__s8170-03/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3830-6165-4630-a561-373633613532__s8170-03",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2372,
+          "width" : 1680
+        },
+        "on" : "http://e6be78a1-a687-48f8-8d9f-93d41b411784"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://38a9399f-457b-4171-b35b-451556d51d75",
+      "@type" : "sc:Canvas",
+      "label" : " Diploma in Chemistry, first degree at the University of Bologna",
+      "height" : 2423,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8bd6e67a-b389-4185-b486-ad6fa98fcee1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild6632-3862-4339-a634-666361386232__s8170-04/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild6632-3862-4339-a634-666361386232__s8170-04",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2423,
+          "width" : 1680
+        },
+        "on" : "http://38a9399f-457b-4171-b35b-451556d51d75"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://0d1b4bdf-3116-415c-8a09-d19a2ea88039",
+      "@type" : "sc:Canvas",
+      "label" : "highschool grade report page 1\n",
+      "height" : 2340,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8008f44f-2727-44f2-99b8-1d7dea372c3b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3235-6438-4137-a234-373538366338__s8170-05_0/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3235-6438-4137-a234-373538366338__s8170-05_0",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2340,
+          "width" : 1680
+        },
+        "on" : "http://0d1b4bdf-3116-415c-8a09-d19a2ea88039"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://202c1435-44fc-4277-9e3f-cc9200815032",
+      "@type" : "sc:Canvas",
+      "label" : "highschool grade report page 2",
+      "height" : 2388,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://acf3e06e-1642-4ae3-ae97-a86adca72762",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild6431-6438-4331-a264-386239303930__s8170-05_1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild6431-6438-4331-a264-386239303930__s8170-05_1",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2388,
+          "width" : 1680
+        },
+        "on" : "http://202c1435-44fc-4277-9e3f-cc9200815032"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://333c9ca7-2efc-46c2-b9ce-2772a24e2ed3",
+      "@type" : "sc:Canvas",
+      "label" : "highschool grade report page 3",
+      "height" : 2365,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://7e920d41-5c66-4cb2-af79-c40f96914d65",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild3765-6330-4463-b235-653633623161__s8170-05_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild3765-6330-4463-b235-653633623161__s8170-05_2",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2365,
+          "width" : 1680
+        },
+        "on" : "http://333c9ca7-2efc-46c2-b9ce-2772a24e2ed3"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4ebea020-abce-4d4c-ad36-8f559996a303",
+      "@type" : "sc:Canvas",
+      "label" : "letter of application for degree in Pharmacy",
+      "height" : 2354,
+      "width" : 1680,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://64d12ba9-e440-47c6-be18-4ad38864a4be",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/tild6233-6565-4262-b234-663634396364__f3156-03/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/tild6233-6565-4262-b234-663634396364__f3156-03",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 2354,
+          "width" : 1680
+        },
+        "on" : "http://4ebea020-abce-4d4c-ad36-8f559996a303"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
