@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/manifest-3.json",
     "label" : "Cover of Madorski's documents for her degree in Chemistry"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://olgamak17.github.io/Internationalstudentsmanifests/manifests/manifest.json",
+    "label" : "Madorski's document"
   } ]
 }
